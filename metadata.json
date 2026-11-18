@@ -1,0 +1,6 @@
+{
+  "name": "MediCare Pro",
+  "description": "Smart Hospital Management & Healthcare Administration System with unified patient records, scheduling, bed occupancy, billing, pharmacy, laboratory, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
